@@ -14,7 +14,8 @@ Antes de ejecutar el proyecto, asegurate de tener instalados los siguientes comp
 *Instalación y ejecución
   1. Clona este repositorio de GitHub
     "git clone https://github.com/Rebus2307/IngenieriaSoftwareTarea1.git"
-  2. Abre VsCode y ejecuta el archivo "tarea1Application.java" que se encuentra en /src/main
-  3. La aplicacion estará disponible en "http://localhost:8080"                                               //Xamp deberá estar en ejecución para que la aplicación funcione
+  2. Abre VsCode y ejecuta el archivo "tarea1Application.java"                                                // Este se encuentra en /src/main/java/com/escom_merlin/Tarea1
+  3. La aplicacion estará disponible en "http://localhost:8080/tarea1"                                        // Xamp deberá estar en ejecución para que la aplicación funcione
 
-*
+*Notas
+Se puede verificar el puerto que se esta utilizando en el archivo "application.properties".                   // Este se encuentra en /src/main/resources
